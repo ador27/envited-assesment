@@ -1,0 +1,28 @@
+.title {
+
+    width: 333px;
+    height: 37px;
+    left: 240px;
+    top: 194px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+
+    color: #240D57;
+}
+
+.host {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 3px;
+
+    color: #828282;
+}
