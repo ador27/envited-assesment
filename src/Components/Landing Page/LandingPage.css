@@ -1,0 +1,61 @@
+.first {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    color: #240D57;
+}
+
+.second {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.third {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+
+    text-align: right;
+
+    color: #240D57;
+}
+
+.subtitle {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #4F4F4F;
+}
+
+.button {
+    width: 40%;
+    gap: 10px;
+    justify-content: center;
+    align-items: right;
+    background: linear-gradient(90deg, #8456ec 3.25%, #e87bf8 100%);
+    border-radius: 10px;
+    margin-top: 34px;
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+}
+
+.button p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: white;
+}
